@@ -3,8 +3,8 @@
 -Feed Forward Neural Network
 -Random Forest Classifier
 -Logistic Regression
->
-CNN
+
+>CNN
 -ResNet-18
 -ResNet-50
 -VGG
